@@ -72,3 +72,5 @@ android/.settings/*
 android/app/.settings/*
 android/app/release/*
 ios/Podfile.lock
+
+.idea/*.xml
