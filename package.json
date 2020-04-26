@@ -2,7 +2,25 @@
   "name": "rn-image-view",
   "version": "0.0.1",
   "description": "react native image viewer",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YanisKondakov/rn-image-view.git"
+  },
+  "license": "MIT",
   "dependencies": {
-    
+    "react-native-image-pan-zoom": "2.1.11"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.34",
+    "@types/react-native": "0.62.4",
+    "react": "16.13.1",
+    "react-native": "0.62.2",
+    "tslint": "6.1.1",
+    "tslint-config-prettier": "1.18.0",
+    "typescript": "3.8.3"
+  },
+  "peerDependencies": {
+    "react": "16.13.1",
+    "react-native": "0.62.2"
   }
 }
