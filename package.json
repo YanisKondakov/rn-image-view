@@ -7,9 +7,6 @@
     "url": "https://github.com/YanisKondakov/rn-image-view.git"
   },
   "license": "MIT",
-  "dependencies": {
-    "react-native-image-pan-zoom": "2.1.11"
-  },
   "devDependencies": {
     "@types/react": "16.9.34",
     "@types/react-native": "0.62.4",

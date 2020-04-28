@@ -10,10 +10,10 @@ import {
   TouchableWithoutFeedback,
   View,
 } from 'react-native';
-import ImageZoom from 'react-native-image-pan-zoom';
 
 import styles from './RNImageViewer.styles';
 import { IImageInfo, IImageSize, Props, State } from './RNImageViewer.types';
+import ImageZoom from './components/ImageZoom';
 
 export default class ImageViewer extends React.Component<Props, State> {
   public static defaultProps = new Props();
